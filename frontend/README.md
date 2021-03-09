@@ -1,4 +1,4 @@
-This repository if for the MERN eCommerce Udemy course project
+This repository is for the MERN eCommerce Udemy course project
 
 # Getting Started with Create React App
 
