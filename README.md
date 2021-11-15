@@ -1,5 +1,5 @@
 # Main-Portfolio-Project
-E-Commerce site developed using React/Redux on the front-end and Node/Express/MongoDB on the back-end.
+E-Commerce Clothing Shop site developed using React/Redux on the front-end and Node/Express/MongoDB on the back-end.
 
 The features include a shopping cart, checkout process, PayPal payment method, authentication with JWT, product reviews, product search, and administration pages for editing products, orders, and users.
 
